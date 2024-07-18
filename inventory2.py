@@ -185,7 +185,7 @@ class InventoryManager:
 
 def load_products():
     return [
-        Product(1, "Latte", "A delicious hot coffee drink", 5.50, 100, "Beverages"),
+       Product(1, "Latte", "A delicious hot coffee drink", 5.50, 100, "Beverages"),
         Product(2, "Cake pop", "A delicious cake styled lollipop", 3.00, 80, "Snacks"),
         Product(3, "Cappuccino", "A rich and creamy coffee drink", 6.50, 150, "Beverages"),
         Product(4, "Espresso", "A strong and bold coffee shot", 4.50, 245, "Beverages"),
@@ -204,7 +204,17 @@ def load_products():
         Product(17, "Iced Chai", "A delicious blend of tea, cinnamon, and other warming spices", 5.00, 240, "Beverages"),
         Product(18, "Cold Brew", "A stronger and bolder coffee drink", 5.00, 230, "Beverages"),
         Product(19, "Macchiato", "A delicious espresso with steamed milk", 5.50, 120, "Beverages"),
-        Product(20, "Mocha", "A delicious chocolate drink", 5.50, 250, "Beverages")
+        Product(20, "Mocha", "A delicious chocolate drink", 5.50, 250, "Beverages"),
+        Product(21, "Cookies", "A fresh baked oeey gooey sweetness", 2.00, 300, "Snacks"),
+        Product(22, "Brownies", "A fresh baked fudgy dessert bar", 2.50, 250, "Snacks"),
+        Product(23, "Cupcakes", "A fresh baked moist cake", 3.75, 250, "Snacks"),
+        Product(24, "Bagels", "A fresh, delicious, soft baked good", 4.00, 200, "Snacks"),
+        Product(25, "Cream Cheese", "The perfect spread", 1.50, 400, "Snacks"),
+        Product(26, "Turkey Sandwich", "Homemade croissant with turkey and cheese", 4.50, 200, "Snacks"),
+        Product(27, "Veggie Sandwich", "Homemade croissant with veggies", 4.50, 100, "Snacks"),
+        Product(28, "Quiche", "A delicious freshly baked pie", 3.50, 75, "Snacks"),
+        Product(29, "Yogurt", "Sourced from the local farm", 3.00, 100, "Snacks"),
+        Product(30, "Fruit", "Freshly sourced from the local farm", 2.50, 240, "Snacks"),
     ]
 
 # Example usage
