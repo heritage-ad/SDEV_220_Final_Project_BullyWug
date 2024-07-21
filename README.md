@@ -13,13 +13,16 @@ The Bullywug Group Inventory Management System is a desktop application designed
 o	Add new products with details including name, description, quantity, and cost price.
 
 o	View a list of products in a table format, allowing easy tracking and updates.
-3.	Sales Tracking
+
+2.	Sales Tracking
 
 o	Record sales transactions and monitor sales history.
-4.	Restocking Management
+
+3.	Restocking Management
 
 o	Create and manage restocking orders to ensure adequate inventory levels.
-5.	Reporting
+
+4.	Reporting
 
 o	Generate and view various reports related to inventory, sales, and restocking.
 
@@ -37,7 +40,8 @@ To run the application, you need to have Python installed on your system. You ca
 1.	Open the Application
    
 o	Launch the application by running the main.py script.
-3.	Navigate Through Tabs
+
+2.	Navigate Through Tabs
 
 o	Inventory Management Tab: Add new products and view the product list.
 
@@ -47,16 +51,19 @@ o	Restocking Management Tab: Manage restocking orders.
 
 o	Reporting Tab: Generate and view reports.
 
-4.	Add Products
+3.	Add Products
    
 o	Enter the product details in the "Add Product" form and click "Add Product" to save.
-6.	Record Sales
+
+4.	Record Sales
 
 o	Use the Sales Tracking tab to record sales transactions.
-7.	Manage Restocking Orders
+
+5.	Manage Restocking Orders
 
 o	Create and manage restocking orders in the Restocking Management tab.
-8.	Generate Reports
+
+6.	Generate Reports
 
 o	Select report types and date ranges in the Reporting tab to generate and view reports.
 
