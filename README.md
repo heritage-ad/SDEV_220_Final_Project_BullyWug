@@ -1,7 +1,9 @@
 # SDEV_220_Final_Project_BullyWug
 
 #**Bullywug Group Inventory Management System**
+
 **Overview**
+
 The Bullywug Group Inventory Management System is a desktop application designed to streamline the management of inventory, sales tracking, restocking, and reporting for a local coffee shop. Built using Python's ‘tkinter’ library, this application provides a user-friendly interface for managing products, sales data, restocking orders, and generating reports.
 
 
@@ -18,6 +20,7 @@ o	Generate and view various reports related to inventory, sales, and restocking.
 
 
 **Installation**
+
 To run the application, you need to have Python installed on your system. You can download Python from python.org.
 1.	Clone the Repository
 2.	Navigate to the Project Directory
