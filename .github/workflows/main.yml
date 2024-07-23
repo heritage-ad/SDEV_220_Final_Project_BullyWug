@@ -1,4 +1,4 @@
-name: Python Application
+name: SDEV Final Project
 
 on:
   push:
@@ -21,7 +21,7 @@ jobs:
     - name: Install system dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y python3-tk
+        sudo apt-get install -y python3-tk xvfb
 
     - name: Install Python dependencies
       run: |
@@ -31,9 +31,10 @@ jobs:
 
     - name: Run GUI application
       run: |
-        python GUI.py
+        xvfb-run --auto-servernum --server-args='-screen 0 1024x768x24' python GUI.py
 
     - name: Run inventory management
       run: |
-        python inventory2.py
+        xvfb-run --auto-servernum --server-args='-screen 0 1024x768x24' python inventory2.py
+
 
