@@ -27,12 +27,12 @@ o	Create and manage restocking orders to ensure adequate inventory levels.
 o	Generate and view various reports related to inventory, sales, and restocking.
 
 
-**Installation**
+**Running the program**
 
-To run the application, you need to have Python installed on your system. You can download Python from python.org.
-1.	Clone the Repository
-2.	Navigate to the Project Directory
-3.	Install Required Packages--Install any required packages (e.g., tkinter) if they are not included with your Python installation.
+To run the application, you need to have Python installed on your system. You can download Python from python.org. You also need visual studios to run the code.
+1.	Open Visual Studios, download python
+2.	Copy and paste this github URL
+3.	Install Required Packages--input github URL to search bar.
 4.	Run the Application—python main.py
 
    
